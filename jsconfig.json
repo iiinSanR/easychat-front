@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    // 编译器选项
+      "paths": {
+      "@/*": [
+        "./src/renderer/src/*"
+      ]
+    }
+
+    
+  }
+
+
+}
